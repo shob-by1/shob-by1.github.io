@@ -1,17 +1,17 @@
 {
   "profile": {
-    "name": "Shoeb Sayed",
+    "name": "Shoaib Sayed",
     "title": "Data Science | Machine Learning",
-    "intro": "I am a data science enthusiast focused on AI and ML.",
-    "emails": ["shoeb@gmail.com", "contact@shoeb.com"],
-    "linkedin": "https://linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourusername"
+    "intro": "Data science enthusiast focused on AI and ML.",
+    "emails": ["sayedshoeb65@gmail.com", "contact-+91 7385746998"],
+    "linkedin": "https://www.linkedin.com/in/shoaib-sayyed-5b0575273?   utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/shob-by1"
   },
   "experience": [
     {
-      "role": "AI Intern",
-      "organization": "XYZ Corp",
-      "duration": "2024 - Present",
+      "role": "Data Science Intern",
+      "organization": "AIGenius LLP",
+      "duration": "2025 - Present",
       "details": "Developing ML models for predictive analysis."
     }
   ],
@@ -19,8 +19,8 @@
     {
       "domain": "Machine Learning",
       "name": "Crop Disease Detection",
-      "github": "https://github.com/user/project",
-      "description": "Used CNN to detect diseases.",
+      "github": "https://github.com/shob-by1/leaf-disease-detection",
+      "description": "Used YOLO V8s to detect diseases.",
       "status": "Completed"
     }
   ],
