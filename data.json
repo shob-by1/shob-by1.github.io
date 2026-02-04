@@ -1,0 +1,30 @@
+{
+  "profile": {
+    "name": "Shoeb Sayed",
+    "title": "Data Science | Machine Learning",
+    "intro": "I am a data science enthusiast focused on AI and ML.",
+    "emails": ["shoeb@gmail.com", "contact@shoeb.com"],
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername"
+  },
+  "experience": [
+    {
+      "role": "AI Intern",
+      "organization": "XYZ Corp",
+      "duration": "2024 - Present",
+      "details": "Developing ML models for predictive analysis."
+    }
+  ],
+  "projects": [
+    {
+      "domain": "Machine Learning",
+      "name": "Crop Disease Detection",
+      "github": "https://github.com/user/project",
+      "description": "Used CNN to detect diseases.",
+      "status": "Completed"
+    }
+  ],
+  "resumes": [
+    { "label": "Industry Resume", "file": "assets/resume.pdf" }
+  ]
+}

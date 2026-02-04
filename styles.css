@@ -1,0 +1,103 @@
+/* General Layout */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    background: #fff;
+    padding: 40px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Navigation Bar */
+nav {
+    background: #2c3e50;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #3498db;
+}
+
+/* Profile Section */
+header {
+    text-align: center;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #3498db;
+    margin-bottom: 15px;
+}
+
+h1 { margin: 10px 0; color: #2c3e50; }
+.subtitle { font-size: 1.2rem; color: #7f8c8d; font-style: italic; }
+
+/* Content Sections */
+section { margin-bottom: 30px; }
+h2 { border-left: 5px solid #3498db; padding-left: 10px; color: #2c3e50; }
+
+.item {
+    background: #fdfdfd;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+/* Projects Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+tr:hover { background-color: #f1f1f1; }
+
+/* Links and Buttons */
+#contacts a, #resumes a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contacts a:hover { text-decoration: underline; }
+
+/* Responsive design for mobile */
+@media (max-width: 600px) {
+    .container { width: 95%; padding: 15px; }
+    table { font-size: 14px; display: block; overflow-x: auto; }
+}
